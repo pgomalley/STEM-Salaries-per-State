@@ -5,21 +5,20 @@ As a junior majoring in Business Analytics and Information Systems and minoring 
 # Dataset Description
 Our dataset consists of nearly 60,000 rows of data on salaries in tech/STEM careers. The data includes the following columns:
 
-timestamp
-Company
-level
-title
-totalyearlycompensation
-location
-yearsofexperience
-yearsatcompany
-basesalary
-stockgrantvalue
-bonus
-gender
-cityid
-dmaid
-rowNumber
+Company,
+level,
+title,
+total yearly compensation,
+location,
+years of experience,
+years at company,
+base salary,
+stock grant value,
+bonus,
+gender,
+cityid,
+dmaid,
+row Number,
 Masters_Degree
 Bachelors_Degree
 Doctorate_Degree
