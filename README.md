@@ -1,8 +1,8 @@
 # STEM-Salaries-per-State
-Problem Description
+Problem Description:
 As a junior majoring in Business Analytics and Information Systems and minoring in computer science, I will be entering the workforce next year. Given the current instability in the tech industry, I aim to understand the relationship between various factors such as demographic, background, company, and how they correlate to the salary an employee receives. I hypothesize that there is large correlations between certain aspects about an employee and the income one earns in the tech/STEM field.
 
-Dataset Description
+Dataset Description:
 Our dataset consists of nearly 60,000 rows of data on salaries in tech/STEM careers. The data includes the following columns:
 
 timestamp
